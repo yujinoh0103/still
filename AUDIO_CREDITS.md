@@ -63,16 +63,6 @@
 | 3-4F | 칼 정리 미니게임 | knife drop | `sfx_knife_drop` | TODO | 후보 필요 |
 | 4 | 단체 이동 | footsteps | `sfx_group_move` | TODO | 캐릭터별 발소리 사용 가능 |
 | 5-4F | 버튼 누름 | button click | `sfx_button_click` | https://artlist.io/sfx/track/working-from-home---computer-mouse-single-click-/73415 | 공통 SFX 재사용 |
-| 5-4F | 문 열림 | door open | `sfx_door_open` | TODO | 후보 필요 |
 | 5-4F | 밧줄 꺾임/조명 켜짐 | rope/light cue | `sfx_rope_light_on` | TODO | 후보 필요 |
 | 5-3F | 동물 울음소리 | cat meow | `sfx_cat_meow` | https://artlist.io/sfx/track/farm-animals---cat-meow-small/52699 | 토끼 후보가 있으면 교체 가능 |
 | 6-good | 현관문 열림 | metal door opening | `sfx_front_door_open` | https://artlist.io/sfx/track/designed-opening-metal-door-dungeon-02/23067 | 노멀 엔딩도 재사용 |
-| 6-good | 전화 연결음 | phone ring/connect | `sfx_phone_connect` | TODO | 더빙 전제 |
-| 6-good | 전화 끊김 | phone disconnect | `sfx_phone_disconnect` | TODO | 더빙 전제 |
-| 6-good | 인석 뛰는 소리 | running footsteps | `sfx_inseok_run` | TODO | 후보 필요 |
-| 6-good | 열쇠로 문 열림 | key unlock | `sfx_key_unlock` | TODO | 설향이 찾기 미니게임 |
-| 6-normal | 치고 박고 싸움 | fight impact | `sfx_fight` | TODO | 후보 필요 |
-| 6-normal | 칼 휘두름 | knife swing | `sfx_knife_swing` | TODO | 후보 필요 |
-| 6-normal | 칼 찔림 | knife stab | `sfx_knife_stab` | TODO | 후보 필요 |
-| 6-bad | 불타는 소리 | fire ambience | `sfx_fire` | TODO | 후보 필요 |
-| 6-bad | 콜록거리는 소리 | coughing | `sfx_cough` | TODO | 후보 필요 |
