@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - pin
+  - Obstacle
+  - Well
+  - Check_Ber
+  - Start
+  - End
+  - Land
+  - Check
+  - Base
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - item
+  - Water
+  - UI
+  - Over_UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

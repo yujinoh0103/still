@@ -1,0 +1,138 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1733925623083222973
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1270651905437742486}
+  - component: {fileID: 1318833923705978940}
+  - component: {fileID: 3577015424610243899}
+  m_Layer: 0
+  m_Name: "\uC784\uC2DC \uAC8C\uC784\uB9E4\uB2C8\uC800"
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1270651905437742486
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1733925623083222973}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1215.3628, y: 350.5791, z: -9.873501}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1318833923705978940
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1733925623083222973}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1622a6681ea1e014aaa2a171e3f1bcc9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dead_human: 00000000
+  item_check: 00
+  Talk_Files_Num: 0
+  talk_name:
+  - 
+  - \1_Start.txt
+  - \2_Wakeup.txt
+  - \3_hallway.txt
+  - \4_Find_she.txt
+  - \5_Find_he.txt
+  - \6_Tutorial_End.txt
+  - \7_Move_Floor.txt
+  - \8_floor_1_click.txt
+  - \9_floor_2_click.txt
+  - \10_floor_3_click.txt
+  - \9_floor_2_click.txt
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - \mini_game.txt
+  - \n_Last_Debate.txt
+  Talk_Num: 0
+  is_talk_start: 0
+  is_talk_start_sign: 0
+  Human_Mamber_image:
+  - Human_Face_image:
+    - {fileID: 21300000, guid: 3f505b91eaf62394780ba10eac21cf54, type: 3}
+    - {fileID: 21300000, guid: 9cf243c6f870d854b8155f72fd693b3c, type: 3}
+    - {fileID: 21300000, guid: f9373f421b0766b49b093d4510aad669, type: 3}
+    - {fileID: 21300000, guid: f2afdeb921ef85a47b2949632afbc4cb, type: 3}
+    - {fileID: 21300000, guid: ea4b9536f9350bd449e19afcc384610b, type: 3}
+  - Human_Face_image:
+    - {fileID: 21300000, guid: c03beab2366837a4691139690fc51ab1, type: 3}
+    - {fileID: 21300000, guid: 8f3343186da4f694093fba72e06ac11c, type: 3}
+    - {fileID: 21300000, guid: d096b835ccc0730439437647060a1907, type: 3}
+  - Human_Face_image:
+    - {fileID: 21300000, guid: ec3fd4cecbe66bf4f8bd00ddb42113ff, type: 3}
+    - {fileID: 21300000, guid: cc02429fd5fab7c43b21f2811ef18f13, type: 3}
+    - {fileID: 21300000, guid: 942eb19cd406f31428390c8185e4afe7, type: 3}
+    - {fileID: 21300000, guid: a61bbe18eaaad5a4f98cf8da2e359d27, type: 3}
+    - {fileID: 21300000, guid: f829451595e11014592dca94e15514dc, type: 3}
+  - Human_Face_image:
+    - {fileID: 21300000, guid: 49f763bf210d8b140bf869388d9fc70c, type: 3}
+    - {fileID: 21300000, guid: 2b04f28de9b34cb43b0457aafbac27e8, type: 3}
+    - {fileID: 21300000, guid: ef9546e0da0577649b8247c3a9ea5552, type: 3}
+    - {fileID: 21300000, guid: ee6666cdbbb8b564b9a705ff05563a1b, type: 3}
+    - {fileID: 21300000, guid: 85ee5fb32d17eb54a9d24d657d3b3a2f, type: 3}
+    - {fileID: 21300000, guid: 095690cf03bae7a4b851714fc406f3af, type: 3}
+  - Human_Face_image:
+    - {fileID: 21300000, guid: a6e08689911662d4ea8d44d280815f3d, type: 3}
+    - {fileID: 21300000, guid: ee6e2b33ee1c8b24daacb3c93ef5a974, type: 3}
+    - {fileID: 21300000, guid: 36650c478ae9a3b4ba73c9bb668c5772, type: 3}
+    - {fileID: 21300000, guid: dac7a40b8d13f72468bba077a5aec474, type: 3}
+    - {fileID: 21300000, guid: c9a17d7f7e3752344a700d9ad9573c0e, type: 3}
+    - {fileID: 21300000, guid: 864252e1a9743de40b0fd3473868277f, type: 3}
+    - {fileID: 21300000, guid: a1f989abe0bf72348a19af628204890b, type: 3}
+  - Human_Face_image:
+    - {fileID: 21300000, guid: 271f5464022edd3478614464a07fde0d, type: 3}
+    - {fileID: 21300000, guid: 127c0de5ab4703d42ac66265a8c32f69, type: 3}
+    - {fileID: 21300000, guid: 260dd333c39bbd34797b867a745775f5, type: 3}
+  - Human_Face_image:
+    - {fileID: 21300000, guid: 84955768c71f25141aabf9ece9a9a42d, type: 3}
+  background_array:
+  - {fileID: 21300000, guid: e6ce16ef674a39b4c8866d8ec3190f05, type: 3}
+  cg_array:
+  - {fileID: 21300000, guid: 08f9240781bc6f641aab993f97989028, type: 3}
+  sound_array:
+  - {fileID: 8300000, guid: 155bc992b16222b40bceef585b599fb2, type: 3}
+  - {fileID: 8300000, guid: 8703ac978e094074a8165dfd9befac74, type: 3}
+  player_now_room_num: 0
+  player_now_floor_num: 0
+  player_before_visit: 0000
+  Ending_Open: 000000000000
+  clear_mini: 00000000000000000000
+  click_mini: 00000000000000000000
+  debate_clear: 00000000
+--- !u!114 &3577015424610243899
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1733925623083222973}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30763d5d85c14184e8ae651e06241e0b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

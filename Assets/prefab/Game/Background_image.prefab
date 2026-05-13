@@ -1,0 +1,181 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3988740091380408275
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7238379079384648392}
+  - component: {fileID: 2656976370790866540}
+  - component: {fileID: 2255617034393966743}
+  m_Layer: 0
+  m_Name: Background_image
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7238379079384648392
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3988740091380408275}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: -1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &2656976370790866540
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3988740091380408275}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: -1
+  m_Sprite: {fileID: 21300000, guid: 3f93f0c7635132d45859cb1fd3d8602f, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1920, y: 1080}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!114 &2255617034393966743
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3988740091380408275}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49fb0e4cbc23e35459c2d330dc9bf50a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player_now_room_num: 0
+  player_now_floor_num: 0
+  floor_image:
+  - floor_room_image:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+  - floor_room_image:
+    - {fileID: 0}
+    - {fileID: 21300000, guid: 0f80258e3861fa34ba60fe15b0114953, type: 3}
+    - {fileID: 21300000, guid: df0ff964245f5fd4c9a3eeee39af33c5, type: 3}
+    - {fileID: 21300000, guid: 4d9ee8e47f75da646972b05b9f0ef0ae, type: 3}
+    - {fileID: 21300000, guid: fb12bad02e9e56848ab05ab07525bebd, type: 3}
+    - {fileID: 21300000, guid: 2c61f28286146d14ea524143da17f988, type: 3}
+    - {fileID: 21300000, guid: 76f16407b6634164bbf8a86fbcde4c78, type: 3}
+    - {fileID: 21300000, guid: 4db99d6602492a049ae8110bfd90e274, type: 3}
+    - {fileID: 21300000, guid: 2b8f56b36511eb8468433635c45f261f, type: 3}
+    - {fileID: 21300000, guid: 29110b8b5315af9478cb092db742ec96, type: 3}
+    - {fileID: 21300000, guid: bbeebcebc036b064b83c99371ffb571d, type: 3}
+    - {fileID: 21300000, guid: 5b6f9646f0aea4e4c932fc1df32e9f9b, type: 3}
+  - floor_room_image:
+    - {fileID: 0}
+    - {fileID: 21300000, guid: 6b321bd780ae3f848b073d8ffae5eb24, type: 3}
+    - {fileID: 21300000, guid: 5fd7f0cef00f75e49877c920ef3e5e85, type: 3}
+    - {fileID: 21300000, guid: 24051600a9af43945a248228562b8458, type: 3}
+    - {fileID: 21300000, guid: 550331e12490f7740a30bec68cb2fe87, type: 3}
+    - {fileID: 21300000, guid: d85843986200f76439c50baba77f3d1d, type: 3}
+    - {fileID: 21300000, guid: 3c6b4dc561be916419b33c02591bec97, type: 3}
+    - {fileID: 21300000, guid: f3e3fa0794f429b4f916f9430283f468, type: 3}
+    - {fileID: 21300000, guid: 6548e0658e79ff84eba2445997226246, type: 3}
+    - {fileID: 21300000, guid: b53dacdc998bf1f49aaff9299e4196d9, type: 3}
+    - {fileID: 21300000, guid: 6778470441c9fe249ae6d53441ede150, type: 3}
+    - {fileID: 21300000, guid: ef8c91e1a7120b3489a65372c243f267, type: 3}
+  - floor_room_image:
+    - {fileID: 0}
+    - {fileID: 21300000, guid: b74e6aba51f5e224ab60e817082408d7, type: 3}
+    - {fileID: 21300000, guid: 13b60d5b9f4c4ba48b1c2026fd0ebda6, type: 3}
+    - {fileID: 21300000, guid: 20be3903a898db44abe90735ccbf4dd1, type: 3}
+    - {fileID: 21300000, guid: 59fe1f95579792b478c499a961faee5c, type: 3}
+    - {fileID: 21300000, guid: f5f1561e474ff8745a2a4d9b2e5e1659, type: 3}
+    - {fileID: 21300000, guid: b3779fd33bb68554b866f5129f0c9ebe, type: 3}
+    - {fileID: 21300000, guid: 3f93f0c7635132d45859cb1fd3d8602f, type: 3}
+    - {fileID: 21300000, guid: 18b83de1cf698a24484086993d0786d0, type: 3}
+    - {fileID: 21300000, guid: b063d2bddbe913040ab8145a9f5522bd, type: 3}
+    - {fileID: 0}
+    - {fileID: 0}
+  - floor_room_image:
+    - {fileID: 0}
+    - {fileID: 21300000, guid: da04a3acb42c67a49a5e37e85f425a9b, type: 3}
+    - {fileID: 21300000, guid: f633aaa33a349b344950a9e7efe65309, type: 3}
+    - {fileID: 21300000, guid: df0634fec1709f948acde5b341e7103a, type: 3}
+    - {fileID: 21300000, guid: 4b4e85eb6027cf04bacd8e942eb40d29, type: 3}
+    - {fileID: 21300000, guid: c47a1b457b7265148bab15558815a00d, type: 3}
+    - {fileID: 21300000, guid: ebb00903ba5f15b4dbe6786e357f98f5, type: 3}
+    - {fileID: 21300000, guid: f5b12058c5a36154a8c65139e593632a, type: 3}
+    - {fileID: 21300000, guid: 95188eb2d4ecd1b47bfe3fd53e827936, type: 3}
+    - {fileID: 21300000, guid: 297a604f85d6040498037ed4635d20f6, type: 3}
+    - {fileID: 21300000, guid: 5ace0ae7eca94a249bd433d1b40f1055, type: 3}
+    - {fileID: 21300000, guid: 129a10b7d7fa7d740b9a2aa3a18c22b2, type: 3}
+  go_map_button_obj:
+  - {fileID: 0}
+  - {fileID: 0}
+  click_livingroom:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  floor1_livingroom_image:
+  - {fileID: 21300000, guid: 29110b8b5315af9478cb092db742ec96, type: 3}
+  - {fileID: 21300000, guid: 2d4fe6b1e985e1c4e89338e37b24250a, type: 3}
+  - {fileID: 21300000, guid: 5b6f9646f0aea4e4c932fc1df32e9f9b, type: 3}
+  - {fileID: 21300000, guid: b9d2cb23f1f8f094e8066d47f7bfbb54, type: 3}
+  livingroom_move: 0

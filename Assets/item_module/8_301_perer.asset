@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f2dcc6c5c5512b419181ab9212c8bb1, type: 3}
+  m_Name: 8_301_perer
+  m_EditorClassIdentifier: 
+  item_name: "\uC5F0\uC560 \uD3B8\uC9C0"
+  item_information: "'\uC124\uD5A5\uC774\uC5D0\uAC8C' \uB77C\uACE0 \uC4F0\uC778 \uC5F0\uC560
+    \uD3B8\uC9C0. \uC5B4\uB5A4 \uC5EC\uC131\uC758 \uC0AC\uC9C4\uC774 \uB3D9\uBD09\uB418\uC5B4\uC788\uB2E4."
+  item_id: 8
+  item_image: {fileID: 21300000, guid: 39440b800efc5ac4ead1771fa378152c, type: 3}
+  item_act: 0
+  min: 0
+  max: 0

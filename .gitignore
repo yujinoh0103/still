@@ -1,0 +1,15 @@
+Library/
+Temp/
+Obj/
+Logs/
+.vs/
+UserSettings/
+*.sln
+*.csproj
+Assets/Sound/**/*.mp3
+Assets/Sound/**/*.wav
+Assets/Sound/**/*.ogg
+Assets/Sound/**/*.flac
+Assets/Sound/**/*.aif
+Assets/Sound/**/*.aiff
+.vsconfig

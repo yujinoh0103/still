@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title_Scene.unity
+    guid: 665e575088fc8c640a91fe9d364af52c
+  - enabled: 1
+    path: Assets/Scenes/Talk_Scene.unity
+    guid: 7847d7b195dcc584c94aa1dfcdf24cce
+  - enabled: 0
+    path: Assets/Scenes/Battle_Scene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Tutorial_Click_Scene.unity
+    guid: d4dea6e03df41bf4bbd06afe49be901d
+  - enabled: 1
+    path: Assets/Scenes/Tutorial_Game_Scene.unity
+    guid: 37abdfad4ecc48e4ab844f2d7bea01a9
+  - enabled: 1
+    path: Assets/Scenes/Game_Scene.unity
+    guid: 3a8bbad3cff61e44fbf75cd00b295911
+  - enabled: 1
+    path: Assets/Scenes/Mini_Game_Scenes/1_click.unity
+    guid: ece0727832486d54b92e4c2d104e5ada
+  - enabled: 1
+    path: Assets/Scenes/Mini_Game_Scenes/2_mini.unity
+    guid: b6831a8b05fca9f4185abf9b1a4c9a81
+  - enabled: 0
+    path: Assets/Scenes/Mini_Game_Scenes/8_timeing.unity
+    guid: 13b4f4259b0984a43890566cc8bd01e1
+  - enabled: 0
+    path: Assets/Scenes/Mini_Game_Scenes/puzzle.unity
+    guid: fba53b9582f4135429c76c09a8c0a16f
+  - enabled: 0
+    path: Assets/Scenes/Mini_Game_Scenes/hand_mini.unity
+    guid: 20cd891389d81ee4c8b1422120dd5365
+  - enabled: 1
+    path: Assets/Scenes/Mini_Game_Scenes/3_electricty.unity
+    guid: 1eba898e9eed100438772491883caa03
+  - enabled: 1
+    path: Assets/Scenes/Mini_Game_Scenes/4_phone.unity
+    guid: 71c6f3f94b931e44e8e18f8d030028c4
+  - enabled: 1
+    path: Assets/Scenes/Mini_Game_Scenes/7_miniScene.unity
+    guid: b7b2275312b14da47a5ece1035e733cb
+  - enabled: 0
+    path: Assets/Scenes/Mini_Game_Scenes/Drag.unity
+    guid: 5b66e76ac5ad5584396e3328786801d4
+  - enabled: 1
+    path: Assets/Scenes/Mini_Game_Scenes/5_Cat_MiniGame.unity
+    guid: 4b8665aab0b79a741b96ee418b2166dd
+  - enabled: 1
+    path: Assets/Scenes/Ending_Scenes/Ending_Scene.unity
+    guid: c0188ab3f15f2384186f354018262659
+  - enabled: 1
+    path: Assets/Scenes/Ending_Scenes/Scene0.unity
+    guid: 2910c931fd1706d4382c76f370851d1a
+  - enabled: 1
+    path: Assets/Scenes/Ending_Scenes/Scene1.unity
+    guid: b897d88ab6815bd4b829c63f454b7df2
+  - enabled: 1
+    path: Assets/Scenes/Ending_Scenes/Scene2.unity
+    guid: 3974bef6dbb683d41b2b3a4284cd8d8e
+  - enabled: 1
+    path: Assets/Scenes/Ending_Scenes/Scene3.unity
+    guid: ec693ee49e9e4f04ab9de83cb95cfd7c
+  - enabled: 1
+    path: Assets/Scenes/Ending_Scenes/Scene4.unity
+    guid: 33d71e2b92383ef47ab69149033648ce
+  - enabled: 1
+    path: Assets/Scenes/Ending_Scenes/Scene5.unity
+    guid: 699195b489c0b6241a99077a6fda515d
+  m_configObjects: {}

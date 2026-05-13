@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f2dcc6c5c5512b419181ab9212c8bb1, type: 3}
+  m_Name: dlatl 1
+  m_EditorClassIdentifier: 
+  item_name: "\uC784\uC2DC \uC544\uC774\uD15C-3\uCE35"
+  item_information: "3\uCE35 \uC544\uC774\uD15C"
+  item_id: 1
+  item_image: {fileID: 21300000, guid: 62af46dc7a52302428e40b0aff373ab2, type: 3}
+  item_act: 10
+  min: 0
+  max: 0

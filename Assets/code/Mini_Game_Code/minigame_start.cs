@@ -1,0 +1,13 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class minigame_start : MonoBehaviour
+{
+    public bool Start_Game;
+    // Start is called before the first frame update
+    public void Start_minigame()
+    {
+        Start_Game = true;
+    }
+}

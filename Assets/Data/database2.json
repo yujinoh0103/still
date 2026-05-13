@@ -1,0 +1,62 @@
+{
+    "file_name": [
+        "wjwkd",
+        "dlfma",
+        ""
+    ],
+    "dead_human": [
+        false,
+        false,
+        false,
+        false
+    ],
+    "item_check": [
+        false
+    ],
+    "Talk_Files_Num": 0,
+    "Talk_Num": 0,
+    "player_now_room_num": 2,
+    "player_now_floor_num": 2,
+    "player_before_visit": [
+        false,
+        false
+    ],
+    "Ending_Open": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "clear_mini": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "click_mini": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "debate_clear": [
+        false,
+        false,
+        false,
+        false
+    ]
+}
